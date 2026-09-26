@@ -1,0 +1,8 @@
+# Entornos
+.idea
+
+# Variable de entorno
+.env
+
+# macOS
+.DS_Store
