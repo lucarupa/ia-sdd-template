@@ -1,5 +1,7 @@
 # Proyecto: `ia-sdd-template`
 
+Este proyecto es un template para trabajar con Spec-Driven Development (SDD) con IA.
+
 ## Estructura del proyecto
 
 ```
